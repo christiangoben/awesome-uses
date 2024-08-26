@@ -7201,6 +7201,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Christian Goben',
+    description: 'Software engineer that enjoys making coffee and getting lost in the woods',
+    url: 'https://christiangoben.com/uses/',
+    emoji: '⛰️',
+    country: '🇺🇸',
+    computer: 'apple',
+    phone: 'iphone',
+    tags: [
+      'Java',
+      'Spring Boot',
+      'JavaScript',
+      'React',
+      'NextJS',
+      'CSS',
+      'Front End'
+    ],
+  },
+  {
     name: 'Jeff Szuc',
     description: 'UX Designer, Frontend Developer, Lifelong Learner.',
     url: 'https://jeffszuc.com/uses',
